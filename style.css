@@ -1,0 +1,27 @@
+body{
+    text-align:center;
+    background:linear-gradient(#ff40d6 0%, #dc40ff 100%);
+}
+img{
+border-radius: 50%;
+    border-width: thin;
+    width: 200px;
+}
+h1{
+    text-shadow: 2px 2px #40fffc;
+    font-size:30px;
+}
+.line{
+    height:6px;
+    width:70px;
+    margin:8px auto;
+    background-color:darkblue;
+}
+#bio{
+    padding: 20px;
+    font-family: serif;
+    font-size: 20px;
+}
+p{
+ color: chartreuse;   
+}
